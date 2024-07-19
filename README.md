@@ -1,4 +1,4 @@
 # Hesap Makinesi
 
-React native ile yazılmış basit işlevsel hesap makinesi.
+React native(Expo) ile yazılmış basit işlevsel hesap makinesi.
 
